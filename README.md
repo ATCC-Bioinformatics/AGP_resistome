@@ -1,12 +1,12 @@
 
 # AGP Resistome Analysis
 
-![infographic_logo](./images/infographic_logo.png)
+![kirby_bauer](https://delivery-files.atcc.org/api/public/content/6a997669d6c14b1fa7f99d4a71379c9b?v=9a582204)
 
 
 The ATCC® Genome Portal (AGP) resistome packages serve as a way for ATCC to characterize and provide both integrated and standalone antimicrobial resistance (AMR) analysis for ATCC®'s authenticated bacterial reference genomes. The resistome dataset packages and integrated GenBank reporting combine multiple AMR detection tools with standard structural annotations to deliver transparent, reproducible, and analysis-ready resistome results.
 
-Resistome annotations are collated into downloadable outputs for ATCC® customers and also displayed directly within the AGP Genome Browser for easily parsability and website-wide searches.
+Resistome annotations are collated into downloadable outputs for ATCC® customers and also displayed directly within the AGP Genome Browser for easy parsability and website-wide searches.
 
 ---
 ## Overview

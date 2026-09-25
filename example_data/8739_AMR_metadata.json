@@ -1,0 +1,21 @@
+{
+    "amr_software_metadata": {
+        "annotation_software_version": "version 2025-05-06.build7983",
+        "AMRFinderPlus_version": "4.0.23",
+        "AMRFinderPlus_database_version": "2025-07-16.1",
+        "ResFinder_version": "4.7.2",
+        "RGI_version": "6.0.4",
+        "CARD_database_version": "4.0.1",
+        "date_annotations_ran": "10/11/2025 02:32:28",
+        "annotation_software": "PGAP"
+    },
+    "product_metadata": {
+        "ATCC_catalog_number": "8739",
+        "ATCC_item_name": "Escherichia coli",
+        "lot_number": "62889455"
+    },
+    "assembly_metadata": {
+        "assembly_id": "3e88078c3d6c4b96",
+        "genome_id": "b9d91f150db449de"
+    }
+}

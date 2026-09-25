@@ -9,6 +9,28 @@ The ATCC® Genome Portal (AGP) resistome packages serve as a way for ATCC to cha
 Resistome annotations are collated into downloadable outputs for ATCC® customers and also displayed directly within the AGP Genome Browser for easy parsability and website-wide searches.
 
 ---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [AMR Detection Tools](#amr-detection-tools)
+  - [AMRFinderPlus (NCBI)](#amrfinderplus-ncbi)
+  - [CARD RGI](#card-rgi)
+  - [ResFinder](#resfinder)
+  - [PanISa (Pan‑Insertion Sequence Analyzer)](#panisa-paninsertion-sequence-analyzer)
+- [Output Packages](#output-packages)
+  - [Excel Workbook](#excel-workbook)
+  - [JSON Metadata](#json-metadata)
+- [Example Data](#example-data)   
+  - [Example Resistomes](#example-resistomes)
+  - [Example Metadata](#example-metadata)
+- [Integration with GenBank Records](#integration-with-genbank-records)
+- [Visualization on the ATCC Genome Portal Genome Browser](#visualization-on-the-atcc-genome-portal-genome-browser)
+- [Intended Use](#intended-use)
+- [Data Use Agreement](#data-use-agreement)
+- [Citation](#citation)
+
+---
 ## Overview
 
 During bacterial genome annotation using NCBI's Prokaryotic Genome Assembly Pipeline (PGAP), ATCC®'s Sequencing & Bioinformatics Center applies an additional layer of *in silico* antimicrobial resistance detection using three tools:
@@ -99,6 +121,7 @@ Each resistome analysis produces an Excel workbook containing multiple sheets, e
 - **PanISa**  
   Insertion sequence analysis output
 
+
 ### JSON Metadata
 
 A companion JSON file is provided with each resistome package. This file includes:
@@ -118,6 +141,23 @@ A companion JSON file is provided with each resistome package. This file include
   - Genome ID hexadecimal
 
 The JSON output is structured for programmatic access and downstream automation.
+
+### Example Data
+While downloading resistomes is now limited to Supporting Members or users who have purchased the corresponding strain, we have made some data publicly-available for all ATCC Genome Portal users. 
+#### Resistomes
+
+>*Escherichia coli* [**(ATCC 8739)**](example_data/8739_amr_collation.xlsx)  
+*Exiguobacterium indicum* [**(ATCC TSD-220)**](example_data/TSD_220_amr_collation.xlsx)  
+*Moraxella veridica* [**(ATCC 23246)**](example_data/23246_amr_collation.xlsx)  
+*Staphylococcus auereus subsp. aureus* [**(ATCC 6538)**](example_data/6538_amr_collation.xlsx)  
+
+#### Metadata
+
+>*Escherichia coli* [**(ATCC 8739)**](example_data/8739_AMR_metadata.json)  
+*Exiguobacterium indicum* [**(ATCC TSD-220)**](example_data/TSD-220_AMR_metadata.json)  
+*Moraxella veridica* [**(ATCC 23246)**](example_data/23246_AMR_metadata.json)  
+*Staphylococcus auereus subsp. aureus* [**(ATCC 6538)**](example_data/6538_AMR_metadata.json)  
+
 
 ---
 

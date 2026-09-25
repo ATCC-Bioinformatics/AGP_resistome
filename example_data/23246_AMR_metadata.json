@@ -1,0 +1,21 @@
+{
+    "amr_software_metadata": {
+        "annotation_software_version": "version 2025-05-06.build7983",
+        "AMRFinderPlus_version": "4.0.23",
+        "AMRFinderPlus_database_version": "2025-07-16.1",
+        "ResFinder_version": "4.7.2",
+        "RGI_version": "6.0.4",
+        "CARD_database_version": "4.0.1",
+        "date_annotations_ran": "09/23/2025 22:00:53",
+        "annotation_software": "PGAP"
+    },
+    "product_metadata": {
+        "ATCC_catalog_number": "23246",
+        "ATCC_item_name": "Moraxella veridica",
+        "lot_number": "70049283"
+    },
+    "assembly_metadata": {
+        "assembly_id": "e47dd6b9df6e4c0c",
+        "genome_id": "6547647b5a0f460d"
+    }
+}

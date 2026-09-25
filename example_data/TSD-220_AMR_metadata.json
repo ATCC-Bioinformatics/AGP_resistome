@@ -1,0 +1,21 @@
+{
+    "amr_software_metadata": {
+        "annotation_software_version": "version 2025-05-06.build7983",
+        "AMRFinderPlus_version": "4.0.23",
+        "AMRFinderPlus_database_version": "2025-07-16.1",
+        "ResFinder_version": "4.7.2",
+        "RGI_version": "6.0.4",
+        "CARD_database_version": "4.0.1",
+        "date_annotations_ran": "09/26/2025 16:46:26",
+        "annotation_software": "PGAP"
+    },
+    "product_metadata": {
+        "ATCC_catalog_number": "TSD-220",
+        "ATCC_item_name": "Exiguobacterium indicum",
+        "lot_number": "70034440"
+    },
+    "assembly_metadata": {
+        "assembly_id": "1b907d4db52e4b1d",
+        "genome_id": "080e20c7507b453b"
+    }
+}

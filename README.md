@@ -4,7 +4,7 @@
 ![kirby_bauer](https://delivery-files.atcc.org/api/public/content/6a997669d6c14b1fa7f99d4a71379c9b?v=9a582204)
 
 
-The ATCC® Genome Portal (AGP) resistome packages serve as a way for ATCC to characterize and provide both integrated and standalone antimicrobial resistance (AMR) analysis for ATCC®'s authenticated bacterial reference genomes. The resistome dataset packages and integrated GenBank reporting combine multiple AMR detection tools with standard structural annotations to deliver transparent, reproducible, and analysis-ready resistome results.
+The ATCC Genome Portal (AGP) resistome packages serve as a way for ATCC to characterize and provide both integrated and standalone antimicrobial resistance (AMR) analysis for ATCC®'s authenticated bacterial reference genomes. The resistome dataset packages and integrated GenBank reporting combine multiple AMR detection tools with standard structural annotations to deliver transparent, reproducible, and analysis-ready resistome results.
 
 Resistome annotations are collated into downloadable outputs for ATCC® customers and also displayed directly within the AGP Genome Browser for easy parsability and website-wide searches.
 
@@ -146,17 +146,17 @@ The JSON output is structured for programmatic access and downstream automation.
 While downloading resistomes is now limited to Supporting Members or users who have purchased the corresponding strain, we have made some data publicly-available for all ATCC Genome Portal users. 
 #### Resistomes
 
->*Escherichia coli* [**(ATCC 8739)**](example_data/8739_amr_collation.xlsx)  
-*Exiguobacterium indicum* [**(ATCC TSD-220)**](example_data/TSD_220_amr_collation.xlsx)  
-*Moraxella veridica* [**(ATCC 23246)**](example_data/23246_amr_collation.xlsx)  
-*Staphylococcus auereus subsp. aureus* [**(ATCC 6538)**](example_data/6538_amr_collation.xlsx)  
+>*Escherichia coli* [**(ATCC® 8739™)**](example_data/8739_amr_collation.xlsx)  
+*Exiguobacterium indicum* [**(ATCC® TSD-220™)**](example_data/TSD_220_amr_collation.xlsx)  
+*Moraxella veridica* [**(ATCC® 23246™)**](example_data/23246_amr_collation.xlsx)  
+*Staphylococcus auereus subsp. aureus* [**(ATCC® 6538™)**](example_data/6538_amr_collation.xlsx)  
 
 #### Metadata
 
->*Escherichia coli* [**(ATCC 8739)**](example_data/8739_AMR_metadata.json)  
-*Exiguobacterium indicum* [**(ATCC TSD-220)**](example_data/TSD-220_AMR_metadata.json)  
-*Moraxella veridica* [**(ATCC 23246)**](example_data/23246_AMR_metadata.json)  
-*Staphylococcus auereus subsp. aureus* [**(ATCC 6538)**](example_data/6538_AMR_metadata.json)  
+>*Escherichia coli* [**(ATCC® 8739™)**](example_data/8739_AMR_metadata.json)  
+*Exiguobacterium indicum* [**(ATCC® TSD-220™)**](example_data/TSD-220_AMR_metadata.json)  
+*Moraxella veridica* [**(ATCC® 23246™)**](example_data/23246_AMR_metadata.json)  
+*Staphylococcus auereus subsp. aureus* [**(ATCC® 6538™)**](example_data/6538_AMR_metadata.json)  
 
 
 ---
